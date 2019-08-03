@@ -1,1 +1,5 @@
 
+/* Header */
+.site-header .custom-header .site-title a {
+  text-decoration: none;
+}
