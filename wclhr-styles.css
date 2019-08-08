@@ -6,3 +6,6 @@
 .site-header .custom-header .site-title {
   text-decoration: none;
 }
+.site-header .custom-header .site-title {
+  font-size:13px;
+}
