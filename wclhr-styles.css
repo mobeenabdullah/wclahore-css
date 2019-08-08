@@ -3,3 +3,6 @@
 .site-header .custom-header .site-title a {
   text-decoration: none;
 }
+.site-header .custom-header .site-title {
+  text-decoration: none;
+}
